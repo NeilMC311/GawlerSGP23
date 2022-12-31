@@ -1,1 +1,47 @@
-
+[
+    {
+        "name": "Matthew Atkinson",
+        "comp": "GawlerSGP23",
+        "cn": "V8",
+        "glider": "Ventus 2cx 18m",
+        "flarm": [
+            "DDEA07"
+        ]
+    },
+    {
+        "name": "Geoff Brown",
+        "comp": "GawlerSGP23",
+        "cn": "UKG",
+        "glider": "JS1 TJ 18m",
+        "flarm": [
+            "7C66AE"
+        ]
+    },
+    {
+        "name": "Mak Ichikawa",
+        "comp": "GawlerSGP23",
+        "cn": "G1",
+        "glider": "Ventus 3T 18m",
+        "flarm": [
+            "7C718B"
+        ]
+    },
+    {
+        "name": "David Pietsch",
+        "comp": "GawlerSGP23",
+        "cn": "ZZ",
+        "glider": "JS1 TJ 18m",
+        "flarm": [
+            "DF15FA"
+        ]
+    },
+    {
+        "name": "Pete Temple",
+        "comp": "GawlerSGP23",
+        "cn": "PT",
+        "glider": "ASG 29 18m",
+        "flarm": [
+            "7C2FBF"
+        ]
+    },
+]
