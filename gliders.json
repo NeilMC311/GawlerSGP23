@@ -5,7 +5,7 @@
         "cn": "V8",
         "glider": "Ventus 2cx 18m",
         "flarm": [
-            "DDEA07,000097"
+            "DDEA07","000097"
         ]
     },
     {
@@ -14,7 +14,7 @@
         "cn": "UKG",
         "glider": "JS1 TJ 18m",
         "flarm": [
-            "7C66AE,000089"
+            "7C66AE","000089"
         ]
     },
     {
@@ -23,7 +23,7 @@
         "cn": "G1",
         "glider": "Ventus 3T 18m",
         "flarm": [
-            "7C718B,FD46B0"
+            "7C718B","FD46B0"
         ]
     },
     {
@@ -32,7 +32,7 @@
         "cn": "ZZ",
         "glider": "JS1 TJ 18m",
         "flarm": [
-            "DF15FA,000082"
+            "DF15FA","000082"
         ]
     },
     {
@@ -41,7 +41,7 @@
         "cn": "PT",
         "glider": "ASG 29 18m",
         "flarm": [
-            "7C2FBF,FD439E"
+            "7C2FBF","FD439E"
         ]
     }
 ]
