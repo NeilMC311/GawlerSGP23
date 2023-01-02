@@ -8,5 +8,51 @@
             "colour": "#F20B13"
         }
     ],
-    "gliders": "https://raw.githubusercontent.com/NeilMC311/GawlerSGP23/main/gliders.json"
+    "gliders": [
+        {
+            "name": "Matthew Atkinson",
+            "comp": "GawlerSGP23",
+            "cn": "V8",
+            "glider": "Ventus 2cx 18m",
+            "flarm": [
+                "FLADDEA07","OGN000097"
+            ]
+        },
+        {
+            "name": "Geoff Brown",
+            "comp": "GawlerSGP23",
+            "cn": "UKG",
+            "glider": "JS1 TJ 18m",
+            "flarm": [
+                "ICA7C66AE","OGN000089"
+            ]
+        },
+        {
+            "name": "Mak Ichikawa",
+            "comp": "GawlerSGP23",
+            "cn": "G1",
+            "glider": "Ventus 3T 18m",
+            "flarm": [
+                "ICA7C718B","OGNFD46B0"
+            ]
+        },
+        {
+            "name": "David Pietsch",
+            "comp": "GawlerSGP23",
+            "cn": "ZZ",
+            "glider": "JS1 TJ 18m",
+            "flarm": [
+                "FLADF15FA","OGN000082"
+            ]
+        },
+        {
+            "name": "Pete Temple",
+            "comp": "GawlerSGP23",
+            "cn": "PT",
+            "glider": "ASG 29 18m",
+            "flarm": [
+                "FLA7C2FBF","OGNFD439E"
+            ]
+        }
+    ]
 }
